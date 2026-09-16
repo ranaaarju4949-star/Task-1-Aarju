@@ -24,9 +24,3 @@ I created a simple To-Do List program using Python. It allows the user to add ta
 - Display a message when there are no tasks
 - Exit the program
 
-### How to Run
-
-Open the terminal in the project folder and run:
-
-```bash
-python todo_list.py
